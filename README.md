@@ -10,6 +10,7 @@ In this public repo - I'll mainly be working on projects that showcase:
 
 🌱 **Learnings**  
 **As of 06/04/2025** Python, AI-assisted IDE (Cursor), PowerBI/Microsoft Fabric, and Analytics Engineering
+**As of 06/20/2025** Taking Zach Wilson's Community Bootcamp on DE
 
 📫 How to reach me: mo dot rizvi at the most commonly used email client in the world dot com (hint: google's email client)
 
