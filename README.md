@@ -18,4 +18,4 @@ In this public repo - I'll mainly be working on projects that showcase:
 
 
 📫 How to reach me: mo dot rizvi at the most commonly used email client in the world dot com (hint: google's email client)  
-⚡ Fun fact: High School Basketball National Champion
+⚡ Fun fact: High School Basketball National Champion 2007, Dhahran Academy
